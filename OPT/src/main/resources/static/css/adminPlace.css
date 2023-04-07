@@ -1,0 +1,31 @@
+.button-center {
+    justify-content: center;
+    align-items: center;
+}
+
+.div-margin {
+    margin: 10px 0px;
+}
+
+.justify-content {
+    justify-content: center;
+    align-items: center;
+}
+
+.text-input {
+    border: none;
+    border-bottom: 1px solid grey;
+}
+
+.text-input:focus {
+    outline: none;
+}
+
+
+.placeImage {
+    height: 200px;
+    width: 350px;
+}
+
+
+

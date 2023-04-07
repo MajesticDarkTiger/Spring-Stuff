@@ -1,0 +1,66 @@
+
+.signup-box {
+    border: 1px ridge white;
+    border-radius: 10px;
+    height: 400px;
+    width: 600px;
+    justify-content: center;
+    align-items: center;
+}
+
+.email {
+    margin-right: 30px;
+}
+
+.password {
+    margin-right: 10px;
+}
+
+.email-text-input {
+    margin-left: 2px;
+}
+
+.text-color {
+    color: white;
+}
+
+.text-input {
+    border: none;
+    border-bottom: 1px solid white;
+    
+}
+
+.text-input:focus {
+    outline: none;
+}
+
+.text-input-margin {
+    margin: 20px 0px;
+}
+
+.justify-content {
+    justify-content: center;
+}
+
+.button-center {
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    background-color: rgb(169, 6, 169);
+    color: whitesmoke;
+    border: 2px solid #2e7531; 
+    width: 25%;
+    justify-content: center;
+    align-items: center;
+  }
+
+.button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+
+  
+  body {
+    background-image: url("https://www.webbikeworld.com/wp-content/uploads/2014/04/Awesome-Motorcycle-Helmet-Face-Masks.png");
+  }

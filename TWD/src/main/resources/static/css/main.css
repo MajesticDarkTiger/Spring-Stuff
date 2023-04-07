@@ -1,0 +1,48 @@
+html body {
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+}
+
+.header {
+    height: 8%;
+    background-color: rgb(70, 70, 70);
+    justify-content: center;
+}
+
+.header-link {
+    color: white;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    height: 100%;
+    width: 100px;
+}
+
+.header-link:hover {
+    cursor: grab;
+    background-color: grey;
+}
+
+.main-content {
+    justify-content: center;
+    align-items: center;
+    height: 92%;
+}
+
+.justify-center {
+    justify-content: center;
+
+}
+
+.box {
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+
+}
+
